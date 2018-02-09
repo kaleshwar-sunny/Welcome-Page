@@ -1,0 +1,35 @@
+
+body{
+    background: url("../images/Mac.jpeg") no-repeat center center fixed;
+    background-size: cover;
+    opacity: 0.7;
+}
+#login{
+    min-width: 250px;
+    padding: 10px 14px 10px;
+    background-color: rgba(255,255,255,0.7);
+}
+.btn-fb{
+    margin-right: 20px;
+    color: #fff;
+    background-color: #35a;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color: #35a
+}
+.btn-tw{
+    margin-left: 0px;
+    color: #fff;
+    background-color: #55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color: #55acee;
+}
+#one{
+    margin-top: 100px;
+    text-align: center;
+    color: chocolate;
+}
+
